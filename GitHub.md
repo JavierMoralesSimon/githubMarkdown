@@ -104,8 +104,9 @@ Nos vamos a _"Settings"_ del repositorio y si lo deseamos, modificamos la config
 GitHub es una magnífica herramienta que hace accesible para todo el mundo todas las posibilidades que brinda Git, gracias a su modo gráfico de hacer las cosas.
 
 ### Bibliografía
-* Editor MarkDown en línea: https://dillinger.io/
-* Chuletario de MarkDown: https://markdownlivepreview.com/?authuser=0
-* GitHub: https://github.com/dashboard
+* [Editor MarkDown en línea](https://dillinger.io/)
+* [Chuletario de MarkDown](https://markdownlivepreview.com/?authuser=0)
+* [GitHub](https://github.com/dashboard)
+
 
 
