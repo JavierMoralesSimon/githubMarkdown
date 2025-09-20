@@ -10,8 +10,10 @@
     * Como ya partía de una cuenta creada, este paso le saltamos.
 2. Repositorio:
     * Lo creamos dando a _"New"_, en la sección _"Repositories"_:
+
 ![Repositories](https://github.com/JavierMoralesSimon/githubMarkdown/blob/main/capturas/1.2.1.png)
 ![New](https://github.com/JavierMoralesSimon/githubMarkdown/blob/main/capturas/1.2.2.png)
+
     * En la página que se abre, rellenamos los campos _"nombre"_ y _"descripción"_, hacemos público el repositorio para que otra gente pueda visualizarlo, y creamos un archivo _"Read me"_:
 ![Configuración del repositorio](https://github.com/JavierMoralesSimon/githubMarkdown/blob/main/capturas/1.2.3.png)
     * Finalmente, lo creamos:
@@ -66,4 +68,5 @@ GitHub es una magnífica herramienta que hace accesible para todo el mundo todas
 ##### Bibliografía
 * Editor MarkDown en línea: https://dillinger.io/
 * Chuletario de MarkDown: https://markdownlivepreview.com/?authuser=0
+
 * GitHub: https://github.com/dashboard
